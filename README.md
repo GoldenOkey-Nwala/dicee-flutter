@@ -1,6 +1,6 @@
 # dice
 
-A new Dice app
+A New Dice app
 
 ## Getting Started
 
